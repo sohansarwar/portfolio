@@ -10,6 +10,7 @@ h1 span{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .ts{
     background-image: url(images/top-banner.png);
@@ -29,4 +30,9 @@ section a{
     font-weight: 700;
     padding: 10px 40px;
     border-radius: 5px;
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
