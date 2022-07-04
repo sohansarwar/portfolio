@@ -12,7 +12,7 @@ section{
     display: flex;
 }
 .ts{
-    background-image: url(/images/top-banner.png);
+    background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
 .tp{
